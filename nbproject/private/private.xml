@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CrudWithServelts/web/index.html</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CrudWithServelts/web/lista.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CrudWithServelts/src/java/dao/ClienteDao.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CrudWithServelts/web/formUpdate.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CrudWithServelts/src/java/db/ConexaoMysql.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CrudWithServelts/src/java/controller/clienteCreateAndFind.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CrudWithServelts/src/java/controller/clienteUpdate.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CrudWithServelts/src/java/db/ConexaoPostgres.java</file>
+        </group>
+    </open-files>
+</project-private>
